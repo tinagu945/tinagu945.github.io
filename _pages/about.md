@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Here lies a paradoxical soul"
+title: "Here lies a paradoxical soul."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,5 +10,6 @@ redirect_from:
 
 Zeqi Gu
 ======
-* Academy: Cornell junior, originally made in China.
-* Career Interests: Artificial Intelligence, Deep Learning, Computer Vision.
+* Academics: Junior at Cornell University, originally made in China.
+* Career Interests: Artificial Intelligence, Deep Learning, Computer Vision. Considering Ph.D after graduation.
+
