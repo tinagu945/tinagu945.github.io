@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zeqi Gu / Personal Website"
+title                    : 
 title_separator          : "-"
 name                     : &name "Zeqi Gu"
 description              : &description "Cornell undergrad major in CS and interested in stars and trilobites."
