@@ -6,18 +6,9 @@ author_profile: true
 ---
 
 ## Intermediate Level Adversarial Attack for Enhanced Transferability
-Excerpt: Neural networks are vulnerable to adversarial examples, malicious inputs crafted
-to fool trained models. Adversarial examples often exhibit black-box transfer,
-meaning that adversarial examples for one model can fool another model. However,
-adversarial examples may be overfit to exploit the particular architecture and feature
-representation of a source model, resulting in sub-optimal black-box transfer attacks
-to other target models. This leads us to introduce the Intermediate Level Attack
-(ILA), which attempts to fine-tune an existing adversarial example for greater
-black-box transferability by increasing its perturbation on a pre-specified layer of
-the source model. We show that our method can effectively achieve this goal and
-that we can decide a nearly-optimal layer of the source model to perturb without
-any knowledge of the target models. \
-date: 2009-10-01 \
+In September, I joined the Cornell Undergrad Vision and Learning, a student-led research group aiming at conducting independent research that results in publication at top CV conferences. And for these 4 months I have been studying adversarial attacks agains neural networks, and we will submit it for ICML in January. 
+We modified FGSM’s algorithm to generate examples by going down along the loss direction of each layer of a source model instead of the only the final layer's, and found the black-box attack transferability was maximized when we target at a certain intermediate layer. This shed light on network’s interpretability since we think this phenomenon is related to the information flow/feature hierarchy of a model.
+<br/>
 paperurl: https://arxiv.org/pdf/1811.08458.pdf 
  
 
