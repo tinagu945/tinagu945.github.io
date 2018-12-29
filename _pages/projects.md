@@ -11,5 +11,5 @@ At the beginning of 2018, I took a gap semester to intern at Face++, who has bee
 <br/>
 Just entering Computer Science for a year, I needed to learn basically everything from scratch to become almost a full-stack. After 3 months of hard work, I finally finished the bare bone of it and had a demo to managers to show that with Fastlabel, I can finish labeling MNIST within 90 minutes, using 8 CPUs. Then I learned Design Pattern to decouple the entire software into SDK for future commercialization. 
 
-### Uber ATG, Software Engineer
+### Uber ATG. Software Engineer
 In May 2018, I came to the Core Map Team of Uber Advanced Technologies Group, which was responsible for the core algorithm for map production for Uber's Self-Driving Vehicles. However, at that time they didn’t have a official way to assess their maps’ quality. So within 3 months, I built up a AB Testing Pipeline for map comparison. It triggered the map production pipeline with 2 different software context (A and B), allowed users to define their own metrics, and finally generate a webpage report. To improve based on midterm feedbacks from my Manager Tashwin, I paid attention to details and pushed myself to be as responsible as possible.
