@@ -8,6 +8,7 @@ author_profile: true
 ## Internship
 ### Megvii (Face++). Software Engineer & Researcher
 At the beginning of 2018, I took a gap semester to intern at Face++, who has been the champion of COCO contest for 2 years. In such an ambitious startup I got the chance to undertake an entire project on my own: Fastlabel. It aims to use Semi-Supervised Learning to speed up training dataset labelling. Firstly it fetches labeled data from database, feed it to the training model constantly. Meanwhile, the training model is also used for inferencing new data without labels, and after inference, multi-processing will show the images guessed by the model to the human labelers on webpage, and the users will correct some minor mistakes of the results, and submit the batches as labelled data for the next round of training. \
+<br/>
 Just entering Computer Science for a year, I needed to learn basically everything from scratch to become almost a full-stack. After 3 months of hard work, I finally finished the bare bone of it and had a demo to managers to show that with Fastlabel, I can finish labeling MNIST within 90 minutes, using 8 CPUs. Then I learned Design Pattern to decouple the entire software into SDK for future commercialization. 
 
 ### Uber ATG, Software Engineer
