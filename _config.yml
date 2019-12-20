@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : 
 title_separator          : "-"
 name                     : &name "Zeqi Gu"
-description              : &description "Cornell undergrad major in CS and Math with interests in stars and trilobites."
+description              : &description "Cornell undergrad major in CS and Math with interests in astronomy and paleontology."
 url                      : https://tinagu945.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tinagu945/tinagu945.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zeqi Gu"
   avatar           : "profile.png"
-  bio              : "Cornell undergrad major in CS and interested in stars and trilobites."
+  bio              : "Cornell undergrad major in CS and Math with interests in astronomy and paleontology."
   location         : "Ithaca, NY"
   employer         :
   googlescholar    : 

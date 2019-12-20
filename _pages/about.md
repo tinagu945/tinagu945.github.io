@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Here lies a paradoxical soul."
+title: "Once only, we found the stars."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,6 @@ redirect_from:
 
 Zeqi Gu
 ======
-* Academics: Junior at Cornell University, CS major.
-* Career Interests: Research in Artificial Intelligence, Deep Learning, Computer Vision. Considering Ph.D after graduation.
-* ~20k lines of Python, 4k lines in Deep Learning frameworks, 1k lines of C++ & Javascript.
+* Academics: Junior at Cornell University, double major in CS and math, minor in physics.
+* Career Interests: Research in Artificial Intelligence, particularly Deep Learning and Computer Vision. Plan to go to grad school after graduation. Looking for research opportunities for summer 2020.
 
