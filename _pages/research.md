@@ -10,14 +10,15 @@ author_profile: true
 ### Qian Huang*, Isay Katsman*, Horace He*, Zeqi Gu*, Serge Belongie, Ser-Nam Lim (*: Equal contribution)
 ### Cornell University, 09/2018 - 03/2019
 Neural networks are vulnerable to adversarial examples, malicious inputs crafted to fool trained models. Adversarial examples often exhibit black-box transfer, meaning that adversarial examples for one model can fool another model. However, adversarial examples are typically overfit to exploit the particular architecture and feature representation of a source model, resulting in sub-optimal black-box transfer attacks to other target models. We introduce the Intermediate Level Attack (ILA), which attempts to fine-tune an existing adversarial example for greater black-box transferability by increasing its perturbation on a pre-specified layer of the source model, improving upon state-of-the-art methods. We show that we can select a layer of the source model to perturb without any knowledge of the target models while achieving high transferability. Additionally, we provide some explanatory insights regarding our method and the effect of optimizing for adversarial examples using intermediate feature maps.
-[Camera-ready Version](http://tinagu945.github.io/files/ILA.pdf)
+
+[Camera-ready Version](http://zeqigu.github.io/files/ILA.pdf)
 
 # Measuring Dataset Granularity
-### Yin Cui*, Zeqi Gu*, Dhruv Mahajan, Laurens van der Maaten, Serge Belongie, Ser-Nam Lim (*: Equal contribution)
+### Yin Cui&ast, Zeqi Gu&ast, Dhruv Mahajan, Laurens van der Maaten, Serge Belongie, Ser-Nam Lim (*: Equal contribution)
 ### Cornell University, 04/2018 - 11/2019
 Despite the increasing visibility of fine-grained recognition in our field, “fine-grained” has thus far lacked a precise definition. In this work, building upon clustering theory, we pursue a framework for measuring dataset granularity. We argue that dataset granularity should depend not only on the data samples and their labels, but also on the distance function we choose. We propose an axiomatic framework to capture desired properties for a dataset granularity measure and provide examples of measures that satisfy these properties. We assess each measure via experiments on datasets with hierarchical labels of varying granularity. When measuring granularity in commonly used datasets with our measure, we find that certain datasets that are widely considered fine-grained in fact contain subsets of considerable size that are substantially more coarse-grained than datasets generally regarded as coarse-grained. We also investigate the interplay between dataset granularity with a variety of factors and find that fine-grained datasets are more difficult to learn from, more difficult to transfer to, more difficult to perform few-shot learning with, and more vulnerable to adversarial attacks.
 
-[Camera-ready Version](http://tinagu945.github.io/files/DatasetGranularity.pdf)
+[Camera-ready Version](http://zeqigu.github.io/files/DatasetGranularity.pdf)
 
 
 # Creative Text Design Agent
@@ -28,7 +29,9 @@ Designing posters can be time-consuming, and the subtask of designing text bodie
 # Annotation Tool for iMat-Fashion Dataset 
 ### Advisor: Serge Belongie; Collaborators: Mengyun Shi, Menglin Jia, Fisher Yu, Wenqi Xian, Junwei Bai, etc.
 ### Cornell University, 09/2018 - 01/2019
-Responsible for developing the annotation tool of the [Fashionpedia](https://fashionpedia.github.io/home/index.html) Dataset, which is currently the largest, most fine-grained machine learning dataset in fashion. I customized the annotation software from Scalabel of Berkeley DeepDrive to meet the specific needs of this dataset. Given an image with segmentation masks over each piece of the model's apparel, the labeler needs to annotate every subobject its attributes (e.g. styles, nickname, texture, etc.) and relations with other objects (e.g. is a button/sleeve of), and thus form a knowledge graph for the entire outfit. This dataset was the target benchmark of [FGVC6 Workshop at CVPR 2019](https://drive.google.com/file/d/1Ah5haDF6kFioQzy45-HKTsxZCqGwondf/view).
+Responsible for developing the annotation tool of the [Fashionpedia](https://fashionpedia.github.io/home/index.html) Dataset, which is currently the largest, most fine-grained machine learning dataset in fashion. I customized the annotation software from Scalabel of Berkeley DeepDrive to meet the specific needs of this dataset. Given an image with segmentation masks over each piece of the model's apparel, the labeler needs to annotate every subobject its attributes (e.g. styles, nickname, texture, etc.) and relations with other objects (e.g. is a button/sleeve of), and thus form a knowledge graph for the entire outfit. This dataset was the target benchmark of [FGVC6 Workshop at CVPR 2019](https://sites.google.com/view/fgvc6/home).
+    
+[Workshop slide](https://drive.google.com/file/d/1Ah5haDF6kFioQzy45-HKTsxZCqGwondf/view).
 
  
 

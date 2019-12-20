@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : 
 title_separator          : "-"
 name                     : &name "Zeqi Gu"
-description              : &description "Cornell undergrad major in CS and interested in stars and trilobites."
-url                      : https://tinagu945.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Cornell undergrad major in CS and Math with interests in stars and trilobites."
+url                      : https://zeqigu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tinagu945/tinagu945.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -86,7 +86,7 @@ author:
   location         : "Ithaca, NY"
   employer         :
   googlescholar    : 
-  email            :
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -100,7 +100,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/zeqi-gu-26133a135/"
   orcid            : 
   pinterest        :
   soundcloud       :
