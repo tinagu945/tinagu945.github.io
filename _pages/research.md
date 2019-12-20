@@ -31,7 +31,7 @@ Designing posters can be time-consuming, and the subtask of designing text bodie
 ### Cornell University, 09/2018 - 01/2019
 Responsible for developing the annotation tool of the [Fashionpedia](https://fashionpedia.github.io/home/index.html) Dataset, which is currently the largest, most fine-grained machine learning dataset in fashion. I customized the annotation software from Scalabel of Berkeley DeepDrive to meet the specific needs of this dataset. Given an image with segmentation masks over each piece of the model's apparel, the labeler needs to annotate every subobject its attributes (e.g. styles, nickname, texture, etc.) and relations with other objects (e.g. is a button/sleeve of), and thus form a knowledge graph for the entire outfit. This dataset was the target benchmark of [FGVC6 Workshop at CVPR 2019](https://sites.google.com/view/fgvc6/home).
     
-[Workshop slide](https://drive.google.com/file/d/1Ah5haDF6kFioQzy45-HKTsxZCqGwondf/view).
+[Workshop slide](https://drive.google.com/file/d/1Ah5haDF6kFioQzy45-HKTsxZCqGwondf/view)
 
  
 
