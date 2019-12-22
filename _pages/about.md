@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Once only, we found the stars."
+title: "The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom. --Isaac Asimov"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
