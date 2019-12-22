@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom. --Isaac Asimov"
+title:
 excerpt: "About me"
 author_profile: true
 redirect_from: 
