@@ -9,7 +9,7 @@ redirect_from:
 ---
 Zeqi Gu
 ======
-* Academics: B.S. expected 2020 winter, Cornell University, double major in CS and math, minor in physics.
+* Academics: B.S. expected 2020 winter, Cornell University, double major in CS and math and minor in physics.
 * Career Interests: Research in Artificial Intelligence, particularly Deep Learning and Computer Vision. I plan to go to grad school after graduation and am looking for research opportunities for summer 2020.
 <br>
 <br>
