@@ -16,4 +16,4 @@ Zeqi Gu
 * News: 
     * [Check out our interview with Cornell Chronicle!](http://news.cornell.edu/stories/2019/11/cs-undergrads-research-sets-sights-image-hackers)
 
-    * One [paper](https://arxiv.org/abs/1912.10154) accepted at ICCV 2019!
+    * One [paper](https://arxiv.org/abs/1907.10823) accepted at ICCV 2019!
